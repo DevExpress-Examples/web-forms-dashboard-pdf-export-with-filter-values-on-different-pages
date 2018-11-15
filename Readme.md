@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/ASPxDashboard_ServerExport/Default.aspx) (VB: [Default.aspx](./VB/ASPxDashboard_ServerExport/Default.aspx))
+* [Default.aspx.cs](./CS/ASPxDashboard_ServerExport/Default.aspx.cs) (VB: [Default.aspx](./VB/ASPxDashboard_ServerExport/Default.aspx))
+* [Global.asax](./CS/ASPxDashboard_ServerExport/Global.asax) (VB: [Global.asax](./VB/ASPxDashboard_ServerExport/Global.asax))
+* [Global.asax.cs](./CS/ASPxDashboard_ServerExport/Global.asax.cs) (VB: [Global.asax](./VB/ASPxDashboard_ServerExport/Global.asax))
+<!-- default file list end -->
 # How to export Web Dashboard into PDF with different filter values on different pages
 
 
