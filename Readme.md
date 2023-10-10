@@ -13,7 +13,7 @@
 <!-- default file list end -->
 # How to export Web Dashboard into PDF with different filter values on different pages
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t511362/)**
+**[[Run Online]](https://codecentral.devexpress.com/128580211/)**
 <!-- run online end -->
 
 
