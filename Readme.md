@@ -16,7 +16,7 @@ This example shows how to export a dashboard with different dashboard states (di
 
 The example is based on the [How to implement server-side export in the ASP.NET Dashboard Control](https://github.com/DevExpress-Examples/web-forms-dashboard-implement-server-side-export) example and uses the same [ASPxDashboardExporter](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWeb.ASPxDashboardExporter?p=netframework) class to export a dashboard with different states to multiple documents on the server side. 
 
-Then, multiple exported documents are joined in a single file with help of the [PdfDocumentProcessor](https://docs.devexpress.com/OfficeFileAPI/DevExpress.Pdf.PdfDocumentProcessor) class.
+Then, multiple exported documents are joined in a single file with the help of the [PdfDocumentProcessor](https://docs.devexpress.com/OfficeFileAPI/DevExpress.Pdf.PdfDocumentProcessor) class.
 
 
 ## Files to Review
