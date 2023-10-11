@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Dashboard>
-  <Title Text="Dashboard 1" />
+  <Title Text="Dashboard" />
   <DataSources>
-    <SqlDataSource ComponentName="DataSource1">
-      <Name>SalesPerson</Name>
+    <SqlDataSource Name="SalesPerson" ComponentName="DataSource1">
       <Connection Name="nwindConnection" FromAppConfig="true" />
       <Query Type="SelectQuery" Name="SalesPerson">
         <Tables>
@@ -72,6 +71,7 @@
         </GridMeasureColumn>
       </GridColumns>
       <GridOptions />
+      <ColumnFilterOptions />
     </Grid>
     <Chart ComponentName="chartDashboardItem1" Name="Chart 1" ShowCaption="false" DataSource="DataSource1" DataMember="SalesPerson" Rotated="true">
       <DataItems>
