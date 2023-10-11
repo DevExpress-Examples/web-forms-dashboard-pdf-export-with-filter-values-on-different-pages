@@ -38,7 +38,7 @@ namespace ASPxDashboard_ServerExport
                         ASPxDashboardExporter exporter = new ASPxDashboardExporter(ASPxDashboard1);
                         using (MemoryStream stream = new MemoryStream())
                         {
-                            exporter.ExportToPdf("Dashboard1", stream, new System.Drawing.Size(1024, 768), dashboardState, pdfOptions);
+                            exporter.ExportToPdf("Dashboard", stream, new System.Drawing.Size(1024, 768), dashboardState, pdfOptions);
                             documentProcessor.AppendDocument(stream);
                         }
                     }
