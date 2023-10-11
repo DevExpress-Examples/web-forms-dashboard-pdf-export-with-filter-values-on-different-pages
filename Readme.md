@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Dashboard for Web Forms - How to export Web Dashboard into PDF with different filter values on different pages
+# BI Dashboard for Web Forms - How to export Web Dashboard into PDF with different filter values on different pages
 
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/128580211/)**
