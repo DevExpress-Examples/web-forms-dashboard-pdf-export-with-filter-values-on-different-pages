@@ -6,9 +6,6 @@
 
 # BI Dashboard for Web Forms - How to export Web Dashboard into PDF with different filter values on different pages
 
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128580211/)**
-<!-- run online end -->
 
 This example shows how to export a dashboard with different dashboard states (different master filter value) to separate pages and join them to a single PDF document.
 
