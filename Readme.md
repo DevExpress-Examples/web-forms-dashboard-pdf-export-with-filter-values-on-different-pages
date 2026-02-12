@@ -33,7 +33,7 @@ Then, multiple exported documents are joined in a single file with the help of t
 
 - [Dashboard for Web Forms - How to implement server-side export](https://github.com/DevExpress-Examples/web-forms-dashboard-implement-server-side-export)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-dashboard-pdf-export-with-filter-values-on-different-pages&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-dashboard-pdf-export-with-filter-values-on-different-pages&~~~was_helpful=no)
 
